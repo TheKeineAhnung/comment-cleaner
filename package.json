@@ -1,0 +1,42 @@
+{
+  "name": "comment-cleaner",
+  "version": "1.0.0",
+  "description": "comment-cleaner is a package which removes comments from a string.",
+  "contributors": [
+    {
+      "name": "TheKeineAhnung",
+      "email": "kontakt@keineahnung.eu"
+    }
+  ],
+  "author": "TheKeineAhnung",
+  "private": false,
+  "main": "build/lib/cleaner.js",
+  "types": "build/lib/cleaner.d.ts",
+  "dependencies": {
+    "defekt": "9.2.0"
+  },
+  "devDependencies": {
+    "assertthat": "6.5.2",
+    "roboter": "13.1.0",
+    "typescript": "4.6.3"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "dev": "npx tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheKeineAhnung/comment-cleaner"
+  },
+  "bugs": {
+    "url": "https://github.com/TheKeineAhnung/comment-cleaner/issues"
+  },
+  "homepage": "https://github.com/TheKeineAhnung/comment-cleaner#readme",
+  "keywords": [
+    "comment",
+    "cleaner",
+    "clean",
+    "comment-cleaner"
+  ],
+  "license": "CC-BY-3.0"
+}
