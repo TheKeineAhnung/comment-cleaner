@@ -1,4 +1,4 @@
-# title
+# Comment cleaner
 
 ![Licence](https://img.shields.io/badge/License-CC--BY--3.0-yellow.svg?style=flat-square) ![Version](https://img.shields.io/github/package-json/v/thekeineahnung/comment-cleaner/main?style=flat-square&label=Version) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
